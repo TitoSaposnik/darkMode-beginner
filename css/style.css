@@ -7,9 +7,10 @@ nav {
     background-size: cover;
     justify-content: center !important;
     height: 200px;
+    border-bottom: 15px solid #020202;
 }
 div p {
-    font-size: 30px;
+    font-size: 25px;
 }
 img {
     margin: 15px;
